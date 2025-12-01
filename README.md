@@ -31,4 +31,4 @@ O controle é feito através da leitura de um **Sensor de pH**:
 O código foi desenvolvido em C++ utilizando a biblioteca `Stepper.h`. Ele possui uma lógica de decisão (`if/else`) calibrada para os valores brutos do sensor de pH, garantindo que o motor opere apenas dentro da faixa segura (pH Neutro).
 
 ---
-*Projeto desenvolvido por [Seu Nome] - 2025*
+*Projeto desenvolvido por Anna Beluco - 2025*
